@@ -55,8 +55,8 @@ r:exp;t:write py fn calc avg vals in col w/ NaN;c:brief,no_yap,exact
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/toon-compressor.git
-cd toon-compressor
+git clone https://github.com/your-username/prompt-in-toon.git
+cd prompt-in-toon
 
 # Install dependencies
 npm install
